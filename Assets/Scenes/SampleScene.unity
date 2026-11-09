@@ -214,6 +214,7 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -487,6 +488,7 @@ MonoBehaviour:
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -786,6 +788,7 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -922,6 +925,7 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -1058,6 +1062,7 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -1205,9 +1210,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   webView: {fileID: 1893372461}
-  xClientId: ad0d17ea-12fb-4613-b0a1-81b866c84e80
-  xApiKey: 3c9e4f20-bb0f-44e4-8529-fa0d1d651e1a
-  checksumKey: 9cfbe621228779e04e3b820e30fb4c111fde875c57053f771b35192f57ba64c7
+  xClientId: 5dd6c268-b1e3-4699-ae73-459e225a4b4d
+  xApiKey: ffcebec6-8f06-4bb2-abbf-5986aca206f8
+  checksumKey: 0ba6511eb10ee78de0289e699f1ea00850ec480b8c068128b53043a02f92b761
   partnerCodeOptional: 
   amount: 5000
   description: UNITY01
@@ -1295,9 +1300,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   webView: {fileID: 0}
-  xClientId: ad0d17ea-12fb-4613-b0a1-81b866c84e80
-  xApiKey: 3c9e4f20-bb0f-44e4-8529-fa0d1d651e1a
-  checksumKey: 9cfbe621228779e04e3b820e30fb4c111fde875c57053f771b35192f57ba64c7
+  xClientId: 5dd6c268-b1e3-4699-ae73-459e225a4b4d
+  xApiKey: ffcebec6-8f06-4bb2-abbf-5986aca206f8
+  checksumKey: 0ba6511eb10ee78de0289e699f1ea00850ec480b8c068128b53043a02f92b761
   partnerCodeOptional: 
   amount: 5000
   description: UNITY01
