@@ -1,0 +1,12 @@
+# ninja log v5
+85	687	8159159451753333	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	70aea159ff9b4e93
+691	1063	8159159454960526	D:/laptrinhgame/Payment-Online-In-Unity-Use-PayOS-ZaloPay/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3v6v6m55/obj/arm64-v8a/libswappywrapper.so	4d0875e4d3c9eefd
+33	3283	8159159477433940	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	82142c88d798cd51
+53	3390	8159159478098600	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a0d43097dee5860
+73	3394	8159159478740328	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	253bc197df3dd9a0
+22	3415	8159159478882615	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c09b5594b545db19
+2	3534	8159159480281081	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	241c5f8821aa5c6
+63	3900	8159159483954267	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	40354647870bbf07
+42	3965	8159159484654520	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f4200a9fa9cb6933
+12	4353	8159159488020851	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	7220183f319b6da2
+4353	4692	8159159491813891	D:/laptrinhgame/Payment-Online-In-Unity-Use-PayOS-ZaloPay/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3v6v6m55/obj/arm64-v8a/libgame.so	d5df7343d75bee38
